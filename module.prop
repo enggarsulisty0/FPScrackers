@@ -1,7 +1,7 @@
 id=FPScrackers
 name=FPScrackers
-version=v4.0.6
-versionCode=4
+version=v1.0
+versionCode=1
 author=Enggar Sulistyo
 description=The Sony Mobile Graphic Driver.
 updateJson=https://raw.githubusercontent.com/enggarsulistyo/BraviaEngine/master/bravia_update_info.json
